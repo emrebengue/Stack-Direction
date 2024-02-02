@@ -1,1 +1,1 @@
-Very basic code to test which way the stack grows
+Very basic C code to test which way the stack grows
